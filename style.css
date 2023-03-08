@@ -1,0 +1,135 @@
+@media (min-width: 600px) and (max-width: 768px) {
+}
+.head{
+    
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 10% 10%; 
+    padding-right: 20px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+nav ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: large;
+}
+.am{
+    margin-left: -400%;
+    margin-top: -30%;
+    
+}
+.pricy{
+    margin-left: 83%;
+    margin-top:35% ;
+    border: solid;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 50%;
+    
+}
+#rev{
+    font-weight: 180%;
+    text-align: center;
+    margin-top: -50%;
+}
+.wed{
+    justify-content: space-between;
+    display: flex;
+    
+}
+.new{
+    justify-content: space-between;
+    display: flex;  
+}
+    
+.c1 img{
+    width: 300px;
+    margin-left: 10%;
+}
+.p2 img{
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -40%;
+}
+.p4 img{
+width: 300px;
+margin-left: 70%;
+margin-top: -70%;
+}
+.on{
+    margin-left:10% ;
+    font-weight: bold;
+}
+.set{
+    margin-left: 40%;
+    font-weight: bold;
+}
+.ex{
+    margin-left: 70%;
+    font-weight:bold ;
+}
+.peg{
+    
+    justify-content: space-between;
+    display: flex;
+}
+.com{
+   display: flex; 
+   justify-content: space-between;
+   color: white;
+   background-color: navy;
+}
+.get{
+    display: flex;
+    background-color: orange;
+}
+#send{
+    margin-left: 75%;
+    padding: 10px;
+}
+.label{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    padding: 20px ;
+}
+#new{
+    margin-left: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    font-size: 120%;
+}
+#series{
+    text-align: center;
+
+}
+#dis{
+    text-align: center;
+}
+.pri{
+    color: crimson;
+    background-color: navy;
+}
+label.logo{
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.label{
+
+}
+.png{
+    border: none;
+    border-radius: 90px;
+    
+}
